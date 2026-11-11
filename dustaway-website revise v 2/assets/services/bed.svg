@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Bed">
+  <rect width="400" height="300" fill="#F3ECFA"/>
+  <circle cx="330" cy="70" r="70" fill="#E6DAF2"/>
+  <ellipse cx="215" cy="252" rx="150" ry="10" fill="#7E5AA8" opacity=".12"/>
+  <!-- headboard -->
+  <rect x="62" y="78" width="58" height="160" rx="20" fill="#B79CDB"/>
+  <!-- base -->
+  <rect x="96" y="196" width="258" height="34" rx="12" fill="#9C7CC9"/>
+  <rect x="110" y="226" width="12" height="22" rx="4" fill="#7E5AA8"/>
+  <rect x="330" y="226" width="12" height="22" rx="4" fill="#7E5AA8"/>
+  <!-- mattress -->
+  <rect x="104" y="156" width="244" height="46" rx="16" fill="#FFFFFF"/>
+  <!-- pillow -->
+  <rect x="122" y="128" width="78" height="36" rx="18" fill="#FFFFFF" stroke="#D9C8EE" stroke-width="3"/>
+  <!-- blanket -->
+  <rect x="196" y="144" width="156" height="62" rx="18" fill="#D9C8EE"/>
+  <path d="M206 160 H344" stroke="#B79CDB" stroke-width="4" stroke-linecap="round"/>
+  <!-- dust going away -->
+  <circle cx="246" cy="112" r="6" fill="#B79CDB"/>
+  <circle cx="266" cy="96" r="5" fill="#B79CDB" opacity=".7"/>
+  <circle cx="284" cy="82" r="4" fill="#B79CDB" opacity=".45"/>
+  <!-- sparkles -->
+  <path transform="translate(318 118)" d="M0 -14 C3 -3 3 -3 14 0 C3 3 3 3 0 14 C-3 3 -3 3 -14 0 C-3 -3 -3 -3 0 -14Z" fill="#FFFFFF"/>
+  <path transform="translate(92 52)" d="M0 -9 C2 -2 2 -2 9 0 C2 2 2 2 0 9 C-2 2 -2 2 -9 0 C-2 -2 -2 -2 0 -9Z" fill="#B79CDB"/>
+</svg>

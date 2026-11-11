@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Drapes and carpet">
+  <rect width="400" height="300" fill="#F3ECFA"/>
+  <!-- window -->
+  <rect x="132" y="52" width="136" height="134" rx="10" fill="#FFFFFF"/>
+  <path d="M200 56 V182 M136 118 H264" stroke="#E6DAF2" stroke-width="5"/>
+  <circle cx="232" cy="88" r="14" fill="#E6DAF2"/>
+  <!-- rod -->
+  <rect x="92" y="40" width="216" height="8" rx="4" fill="#7E5AA8"/>
+  <circle cx="92" cy="44" r="7" fill="#7E5AA8"/>
+  <circle cx="308" cy="44" r="7" fill="#7E5AA8"/>
+  <!-- left drape -->
+  <path d="M100 48 H162 C152 96 168 146 154 204 H106 C118 150 94 100 100 48Z" fill="#B79CDB"/>
+  <path d="M120 54 C116 100 128 150 122 200 M142 54 C136 100 150 150 140 200" stroke="#9C7CC9" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- right drape -->
+  <path d="M300 48 H238 C248 96 232 146 246 204 H294 C282 150 306 100 300 48Z" fill="#B79CDB"/>
+  <path d="M280 54 C284 100 272 150 278 200 M258 54 C264 100 250 150 260 200" stroke="#9C7CC9" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- carpet -->
+  <rect x="96" y="222" width="208" height="36" rx="10" fill="#D9C8EE"/>
+  <rect x="108" y="230" width="184" height="20" rx="6" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-dasharray="10 6"/>
+  <path d="M96 228 H84 M96 236 H84 M96 244 H84 M96 252 H84 M304 228 H316 M304 236 H316 M304 244 H316 M304 252 H316" stroke="#B79CDB" stroke-width="3" stroke-linecap="round"/>
+  <!-- dust going away -->
+  <circle cx="330" cy="200" r="6" fill="#B79CDB"/>
+  <circle cx="346" cy="184" r="5" fill="#B79CDB" opacity=".7"/>
+  <circle cx="360" cy="170" r="4" fill="#B79CDB" opacity=".45"/>
+  <!-- sparkles -->
+  <path transform="translate(60 120)" d="M0 -13 C3 -3 3 -3 13 0 C3 3 3 3 0 13 C-3 3 -3 3 -13 0 C-3 -3 -3 -3 0 -13Z" fill="#B79CDB"/>
+  <path transform="translate(345 90)" d="M0 -9 C2 -2 2 -2 9 0 C2 2 2 2 0 9 C-2 2 -2 2 -9 0 C-2 -2 -2 -2 0 -9Z" fill="#B79CDB"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Pillow and blanket">
+  <rect width="400" height="300" fill="#F3ECFA"/>
+  <circle cx="335" cy="235" r="80" fill="#E6DAF2"/>
+  <ellipse cx="200" cy="250" rx="125" ry="9" fill="#7E5AA8" opacity=".12"/>
+  <!-- folded blankets -->
+  <rect x="96" y="196" width="208" height="46" rx="16" fill="#9C7CC9"/>
+  <path d="M110 219 H290" stroke="#FFFFFF" stroke-width="3" stroke-dasharray="8 8" stroke-linecap="round" opacity=".7"/>
+  <rect x="108" y="156" width="184" height="44" rx="16" fill="#B79CDB"/>
+  <path d="M122 178 H278" stroke="#FFFFFF" stroke-width="3" stroke-dasharray="8 8" stroke-linecap="round" opacity=".7"/>
+  <rect x="120" y="118" width="160" height="42" rx="16" fill="#D9C8EE"/>
+  <path d="M134 139 H266" stroke="#FFFFFF" stroke-width="3" stroke-dasharray="8 8" stroke-linecap="round"/>
+  <!-- pillow -->
+  <path d="M138 78 C170 66 230 66 262 78 C274 84 274 112 262 118 C230 128 170 128 138 118 C126 112 126 84 138 78Z" fill="#FFFFFF" stroke="#D9C8EE" stroke-width="3"/>
+  <path d="M168 98 H232" stroke="#E6DAF2" stroke-width="4" stroke-linecap="round"/>
+  <!-- dust going away -->
+  <circle cx="288" cy="70" r="6" fill="#B79CDB"/>
+  <circle cx="308" cy="56" r="5" fill="#B79CDB" opacity=".7"/>
+  <circle cx="326" cy="44" r="4" fill="#B79CDB" opacity=".45"/>
+  <!-- sparkles -->
+  <path transform="translate(90 92)" d="M0 -13 C3 -3 3 -3 13 0 C3 3 3 3 0 13 C-3 3 -3 3 -13 0 C-3 -3 -3 -3 0 -13Z" fill="#B79CDB"/>
+  <path transform="translate(330 150)" d="M0 -9 C2 -2 2 -2 9 0 C2 2 2 2 0 9 C-2 2 -2 2 -9 0 C-2 -2 -2 -2 0 -9Z" fill="#FFFFFF"/>
+</svg>
